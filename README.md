@@ -1,1 +1,12 @@
 # Weather-related-disasters
+![newplot](https://user-images.githubusercontent.com/82277577/126380354-a9fb4e56-bfcc-43be-9b96-833cbaef5dde.png)
+![newplot (1)](https://user-images.githubusercontent.com/82277577/126380385-56ed5ff9-1680-4cee-af6a-3b91ed7896c0.png)
+![newplot (2)](https://user-images.githubusercontent.com/82277577/126380392-666fc792-c5b5-4852-b7e3-3c03bc3dec4f.png)
+![newplot (3)](https://user-images.githubusercontent.com/82277577/126380394-a857ef64-d882-4eef-8278-878911cd1f8b.png)
+![newplot (4)](https://user-images.githubusercontent.com/82277577/126380398-22cee089-344a-48b3-b149-fff8d9ca6c2d.png)
+![newplot (5)](https://user-images.githubusercontent.com/82277577/126380403-5cd56ffb-202a-4b21-bb9a-2768fed02751.png)
+![newplot (6)](https://user-images.githubusercontent.com/82277577/126380405-dd6cecb6-e4ec-40f6-8f4e-a45f5b15b5cc.png)
+![newplot (7)](https://user-images.githubusercontent.com/82277577/126380407-77346c1c-6284-4b09-a2bf-5f63dc50a8b0.png)
+![newplot (8)](https://user-images.githubusercontent.com/82277577/126380408-3450386c-ffb2-4011-8aa9-e93726b7fc97.png)
+![newplot (9)](https://user-images.githubusercontent.com/82277577/126380411-21bbe228-6421-45ae-a797-8dc35d15d003.png)
+![newplot (10)](https://user-images.githubusercontent.com/82277577/126380414-c3233564-b851-4fed-b00e-d1b3e9b5987d.png)
